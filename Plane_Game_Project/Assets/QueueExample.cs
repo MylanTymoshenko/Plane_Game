@@ -28,6 +28,8 @@ public class QueueExample : MonoBehaviour
         universalQ.Enqueue(123);
 
         // universalQ doesnt have set data type, this suggest it can have items with different data types.
+
+        
     }
 
 }
